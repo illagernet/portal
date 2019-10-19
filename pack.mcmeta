@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "pack": {
+    "pack_format": 1,
+    "description": "Protect the End exit portal from griefing"
+  }
+}
